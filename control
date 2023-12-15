@@ -1,6 +1,6 @@
 Package: dev.callmeecho.decluttered
 Name: Decluttered
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
 Description: iOS can be cluttered. Lets fix that.
 Maintainer: CallMeEcho
