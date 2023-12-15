@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string>Home screen</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableBetaDots</string>
+				<key>label</key>
+				<string>Disable beta dots</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableDockBackground</string>
+				<key>label</key>
+				<string>Disable Dock Background</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableFolderBackground</string>
+				<key>label</key>
+				<string>Disable Folder Background</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disablePageDots</string>
+				<key>label</key>
+				<string>Disable Page Dots</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableUpdateDots</string>
+				<key>label</key>
+				<string>Disable Update Dots</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableWidgetLabels</string>
+				<key>label</key>
+				<string>Disable Widget Labels</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string>Lockscreen</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableHomeToUnlockLabel</string>
+				<key>label</key>
+				<string>Disable "Press to unlock" label</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableLockscreenPagedots</string>
+				<key>label</key>
+				<string>Disable Page Dots</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>emptyPasswordButtons</string>
+				<key>label</key>
+				<string>Empty Password Buttons</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string>System-wide</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableHomebar</string>
+				<key>label</key>
+				<string>Disable homebar</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableVolumeHUD</string>
+				<key>label</key>
+				<string>Disable Volume HUD</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableScrollbar</string>
+				<key>label</key>
+				<string>Disable Scrollbars</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableSeparators</string>
+				<key>label</key>
+				<string>Disable Separators</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableStatusbar</string>
+				<key>label</key>
+				<string>Disable Statusbar</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string>Settings</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableSettingsChevrons</string>
+				<key>label</key>
+				<string>Disable Settings Chevrons</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false />
+				<key>defaults</key>
+				<string>dev.callmeecho.decluttered.preferences</string>
+				<key>key</key>
+				<string>disableSettingsIcons</string>
+				<key>label</key>
+				<string>Disable Settings Icons</string>
+				<key>PostNotification</key>
+				<string>dev.callmeecho.decluttered.preferences/reload</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>footerText</key>
+				<string>Made with ❤️ by Echo</string>
+				<key>footerAlignment</key>
+				<real>1</real>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Decluttered</string>
+	</dict>
+</plist>
